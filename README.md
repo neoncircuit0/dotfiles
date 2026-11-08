@@ -28,23 +28,33 @@ Hyfetch in Omnisexual colors with fish and fastfetch custom pink/purple theming.
 
 ## Installation
 
+```
 git clone https://github.com/neoncircuit0/dotfiles.git
 cd dotfiles
+```
 
 # Copy fish config
+```
 cp fish/config.fish ~/.config/fish/config.fish
+```
 
 # Copy git config
+```
 cp .gitconfig ~/.gitconfig
+```
 
 # Copy fastfetch config
+```
 mkdir -p ~/.config/fastfetch
 cp fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
+```
 
 # Copy CAVA config
+```
 mkdir -p ~/.config/cava/themes
 cp .config/cava/config ~/.config/cava/config
-cp .config/cava/themes/* ~/.config/cava/themes/
+cp .config/cava/themes/* ~/.config/cava/themes/```
+```
 
 ## License
 
