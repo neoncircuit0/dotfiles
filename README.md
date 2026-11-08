@@ -22,9 +22,13 @@ Personal configuration files for my Linux setup.
 
 ## Preview
 
-![Terminal screenshot](images/terminal.png)
+![Image: Terminal screenshot (images/terminal.png)]
 
 Hyfetch in Omnisexual colors with fish and fastfetch custom pink/purple theming.
+
+![Image: CAVA visualizer (images/cava.png)]
+
+CAVA audio visualizer with Catppuccin Mocha pink/purple gradient theme.
 
 ## Installation
 
