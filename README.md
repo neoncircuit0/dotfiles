@@ -20,6 +20,23 @@ Personal configuration files for my Linux setup.
 - `.gitconfig` - Git config with GPG signing enabled
 - `.gitignore` - Standard ignores
 
+---
+
+## Color Palette
+
+Omnisexual pride colors used across configs:
+
+| Color | Hex |
+| --- | --- |
+| Pink Light | `#ff9ad9` |
+| Pink Main | `#ff53bf` |
+| Purple | `#8002ad` |
+| Blue Main | `#4363d9` |
+| Blue Light | `#8da3ff` |
+| Background | `#0F0F1A` |
+
+---
+
 ## Preview
 
 ![Terminal screenshot](images/terminal.png)
