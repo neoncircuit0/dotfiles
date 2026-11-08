@@ -4,7 +4,7 @@ Personal configuration files for my Linux setup.
 
 ## Setup
 
-- **OS:** Debian Trixie
+- **OS:** CachyOS (Arch-based)
 - **DE:** KDE Plasma 6 (Wayland)
 - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) + [Catppuccin for kitty](https://github.com/catppuccin/kitty)
 - **Shell:** [fish](https://github.com/fish-shell/fish-shell)
@@ -15,18 +15,20 @@ Personal configuration files for my Linux setup.
 
 - `fish/config.fish` - Custom prompt with pink/purple colors
 - `fastfetch/config.jsonc` - Custom fastfetch output
+- `.config/cava/config` - CAVA audio visualizer config
+- `.config/cava/themes/` - CAVA color themes
 - `.gitconfig` - Git config with GPG signing enabled
 - `.gitignore` - Standard ignores
 
 ## Preview
 
 ![Terminal screenshot](images/terminal.png)
+
 Hyfetch in Omnisexual colors with fish and fastfetch custom pink/purple theming.
 
 ## Installation
 
-```fish
-git clone https://github.com/TerminalTilt/dotfiles.git
+git clone https://github.com/neoncircuit0/dotfiles.git
 cd dotfiles
 
 # Copy fish config
@@ -38,6 +40,12 @@ cp .gitconfig ~/.gitconfig
 # Copy fastfetch config
 mkdir -p ~/.config/fastfetch
 cp fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
-```
+
+# Copy CAVA config
+mkdir -p ~/.config/cava/themes
+cp .config/cava/config ~/.config/cava/config
+cp .config/cava/themes/* ~/.config/cava/themes/
+
 ## License
+
 [GPL v3](LICENSE)
