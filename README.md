@@ -39,11 +39,9 @@ Omnisexual pride colors used across configs:
 
 Hyfetch in Omnisexual colors with fish and fastfetch custom pink/purple theming.
 
-<video src="assets/cava-demo.webm" autoplay loop muted playsinline poster="images/cava.png">
-  <a href="assets/cava-demo.webm">Watch Cava demo</a>
-</video>
+![Cava audio visualizer with Catppuccin Mocha pink/purple gradient theme](assets/cava-demo.webm)
 
-CAVA audio visualizer with Catppuccin Mocha pink/purple gradient theme.
+*CAVA audio visualizer with Catppuccin Mocha pink/purple gradient theme.*
 
 ## Installation
 
