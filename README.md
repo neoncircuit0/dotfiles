@@ -39,7 +39,9 @@ Omnisexual pride colors used across configs:
 
 Hyfetch in Omnisexual colors with fish and fastfetch custom pink/purple theming.
 
-![Cava audio visualizer](assets/cava-demo.webm)
+<video src="assets/cava-demo.webm" autoplay loop muted playsinline poster="images/cava.png">
+  <a href="assets/cava-demo.webm">Watch Cava demo</a>
+</video>
 
 CAVA audio visualizer with Catppuccin Mocha pink/purple gradient theme.
 
@@ -70,7 +72,7 @@ cp fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
 ```
 mkdir -p ~/.config/cava/themes
 cp .config/cava/config ~/.config/cava/config
-cp .config/cava/themes/* ~/.config/cava/themes/```
+cp .config/cava/themes/* ~/.config/cava/themes/
 ```
 
 ## License
