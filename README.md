@@ -10,6 +10,7 @@ Personal configuration files for my Linux setup.
 - **Shell:** [fish](https://github.com/fish-shell/fish-shell)
 - **Editor:** [micro](https://github.com/micro-editor/micro) + [Catppuccin for micro](https://github.com/catppuccin/micro)
 - **Fetch:** [hyfetch](https://github.com/hykilpikonna/hyfetch) & [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- **Audio:** [EasyEffects](https://github.com/wwmm/easyeffects) + [presets](https://github.com/neoncircuit0/audio-configs)
 
 ## What's Here
 
