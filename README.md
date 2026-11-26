@@ -74,6 +74,12 @@ cp .config/cava/config ~/.config/cava/config
 cp .config/cava/themes/* ~/.config/cava/themes/
 ```
 
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U1U82AQ6S8)
+
+If you find these configs useful and want to support independent FOSS work, consider buying me a coffee. All contributions go toward hardware and infrastructure costs.
+
 ## License
 
 [GPL v3](LICENSE)
